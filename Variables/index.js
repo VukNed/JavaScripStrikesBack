@@ -8,4 +8,5 @@ console.log(firstName + ' ' + lastName);
 
 const interestRate = 0.3;
 // interestRate = 1;
+// empty comment to tes git commit
 console.log(interestRate);
