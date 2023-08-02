@@ -46,3 +46,11 @@ products.sort((a, b) => {
 });
 
 console.log(products);
+
+const numbersDouble = numbers.map(double)
+
+function double(value) {
+    return value * 2;
+}
+
+console.log(numbersDouble);
